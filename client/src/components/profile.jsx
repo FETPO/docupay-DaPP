@@ -67,7 +67,7 @@ const Profile = (props) => {
                 });
               }
 
-              setDocumentsUploaded(documents);
+              setDocumentsUploaded(documentsUploaded);
             });
           });
         });
