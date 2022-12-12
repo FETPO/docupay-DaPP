@@ -61,7 +61,7 @@ const Home = () => {
           <div className="home-col-right">
             <h1 className="heading">Tech Behind DocuPay</h1>
             <p>
-              DocuPay is built with ReactJS, Solidity, and Web3 and is deployed on the Ropsten testnet. It uses IPFS to store uploaded PDF files.
+              DocuPay is built with Solidity, ReactJS, Truffle, Ganache, and Infura, and is deployed on the Goerli testnet. It uses IPFS to store uploaded PDF files.
             </p>
             <p>You can find the project's repository <a href="https://github.com/cate-k/docupay" target="_blank" rel="noopener noreferrer">here</a>.</p>
           </div>
