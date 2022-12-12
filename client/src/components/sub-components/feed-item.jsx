@@ -76,7 +76,6 @@ const FeedItem = (props) => {
   };
 
   const unfavouriteDocument = async () => {
-    console.log("unfave");
     // Unfavourite the document
     window.ethereum.enable().then(async () => {
       const contract = new web3.eth.Contract(DocuPay.abi, DocuPay.address);
