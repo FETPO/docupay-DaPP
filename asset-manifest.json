@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/docupay/static/css/main.708505d4.css",
-    "main.js": "/docupay/static/js/main.5f07008c.js",
+    "main.js": "/docupay/static/js/main.fafb48a1.js",
     "static/media/metamask.png": "/docupay/static/media/metamask.824788ab60d8c8f361bf.png",
     "static/media/glacial-indifference-bold.ttf": "/docupay/static/media/glacial-indifference-bold.7783b1a62ee28f74a3e6.ttf",
     "static/media/logo.png": "/docupay/static/media/logo.cb2910a43a3241584dc6.png",
     "index.html": "/docupay/index.html",
     "main.708505d4.css.map": "/docupay/static/css/main.708505d4.css.map",
-    "main.5f07008c.js.map": "/docupay/static/js/main.5f07008c.js.map"
+    "main.fafb48a1.js.map": "/docupay/static/js/main.fafb48a1.js.map"
   },
   "entrypoints": [
     "static/css/main.708505d4.css",
-    "static/js/main.5f07008c.js"
+    "static/js/main.fafb48a1.js"
   ]
 }
